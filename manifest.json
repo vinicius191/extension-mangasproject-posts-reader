@@ -1,0 +1,14 @@
+{
+    "name": "MangasProject - Últimos Lançamentos",
+    "version": "1.0",
+    "description": "Extensão para listar as últimas postagens do site MangasProject",
+    "browser_action":   {
+        "default_icon": "images/icon_mangasProject.png",
+        "default_popup": "mangasProject_popup.html"
+    },
+    "content_security_policy": "script-src 'self' https://query.yahooapis.com/v1/public/yql; object-src 'self'",
+    "manifest_version": 2,
+    "icons":{
+        "128":"images/icon_mangasProject.png"
+    }
+}

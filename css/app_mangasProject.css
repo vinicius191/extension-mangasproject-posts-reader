@@ -1,0 +1,17 @@
+.feedEkList{width:330px; list-style:none outside none;background-color:#FFFFFF; border:1px solid #D3CAD7; padding:0px 6px; color:#3E3E3E;}
+.feedEkList li{border-bottom:1px solid #D3CAD7; padding:5px;}
+.feedEkList li:last-child{border-bottom:none;}
+.itemTitle a{font-weight:bold; color:#ba6648 !important; text-decoration:none }
+.itemTitle a:hover{ text-decoration:underline }
+.itemDate{font-size:11px;color:#AAAAAA;}
+.container{width:330px; list-style:none outside none;color:#3E3E3E;padding-top: -4px;}
+.loader{margin:0 auto; display:block;padding: 10px 0;}
+#divRss{width: 330px;}
+
+.rssDiv{float:left; padding-right:5px;}
+ul{width:300px !important}
+body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif; background-color:#efefef;font-size: 13px;line-height: 17px !important;}
+p{text-align: center;margin: 0;padding: 0;}
+p a{font-weight:bold; color:#ba6648 !important; text-decoration:none }
+p a:hover{ text-decoration:underline }
+
